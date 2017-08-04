@@ -18,8 +18,8 @@ title: {{ site.title }}
 description: >
   {{ site.description | rstrip }}
 baseurl: "{{ site.baseurl }}" # the subpath of your site
-url: "{{ site.url }}"
-email: {{ site.email }}
+url: "{{ addykrauchunas }}"
+email: {{ addykrauchunas }}
 github_username:  {{ site.github_username }}
 linkedin_username: {{ site.linkedin_username }}
 twitter_username: {{ site.twitter_username }}
