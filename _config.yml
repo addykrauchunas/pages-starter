@@ -17,11 +17,11 @@ title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/pages-starter" # the subpath of your site
-url: 
+url: "https://addykrauchunas.github.io"
 email: addykrauchunas@yahoo.com
 github_username:  addykrauchunas
 linkedin_username: addykrauchunas
-instagram_username:addy.lk 
+instagram_username: addy.lk 
 
 # Build settings
 markdown: kramdown
