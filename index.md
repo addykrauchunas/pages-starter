@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
-cite: Edwin H. Land
+quote: The problem is not the problem; the problem is your attitude about the problem.
+cite: captain Jack Sparrow
 ---
 
 This example is just meant to get you started and show you a little of what's
